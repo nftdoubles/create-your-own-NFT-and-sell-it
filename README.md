@@ -1,3 +1,6 @@
+![Covid Portrait](https://user-images.githubusercontent.com/99042370/152653556-8558fafa-dcc8-4b5d-a2b9-d3a722d4be7d.jpg)
+![Jesus Joint](https://user-images.githubusercontent.com/99042370/152653561-0e16c7cd-d9e7-4962-9546-622b83dd7599.jpg)
+![OHMYDOG](https://user-images.githubusercontent.com/99042370/152653566-fd14ddfc-4b45-46da-85f0-3b1d8cddb007.jpg)
 # create-your-own-NFT-and-sell-it
 
 ## Prerequisities
